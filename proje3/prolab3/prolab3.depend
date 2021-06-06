@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609845702 source:c:\users\hasan\software projects\c projects\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1609845702 source:c:\users\hasan\bilgisayar mühendisliði\prolab\proje3\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
